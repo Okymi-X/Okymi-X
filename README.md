@@ -1,6 +1,6 @@
 <img src="./assets/hero.svg" alt="Okymi, cybersecurity student" width="100%">
 
-[Onyx](https://notes.okymi.tech/) / [LinkedIn](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/) / [htb-terminal](https://github.com/Okymi-X/htb-terminal) / [arsenal](https://github.com/Okymi-X/arsenal)
+[Onyx](https://notes.okymi.tech/) / [Hack The Box](https://app.hackthebox.com/public/users/2157639) / [LinkedIn](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/) / [htb-terminal](https://github.com/Okymi-X/htb-terminal) / [arsenal](https://github.com/Okymi-X/arsenal)
 
 I am a cybersecurity student focused on offensive security, Active Directory, and automation. I turn lab experience into useful tools and searchable technical references.
 
@@ -26,8 +26,8 @@ A Go package and environment manager for offensive-security tooling with isolate
 
 **Practical labs**
 
-- [Hack The Box Pro Labs: Zephyr](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/details/certifications/) - August 2026
-- [Hack The Box Pro Labs: Dante](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/details/certifications/) - May 2026
+- [Hack The Box Pro Labs: Zephyr](https://app.hackthebox.com/public/users/2157639) - August 2026
+- [Hack The Box Pro Labs: Dante](https://app.hackthebox.com/public/users/2157639) - May 2026
 
 ## Current focus
 
