@@ -1,6 +1,6 @@
 # Youssouf Ali Mahamat Nour
 
-Cybersecurity student focused on offensive security, security automation, and practical open-source tooling.
+Cybersecurity student focused on offensive security, security automation, and open-source engineering.
 
 I build tools that make security workflows more reliable and repeatable. My current work spans Python, Go, TypeScript, Linux, APIs, Active Directory, and CI/CD.
 
