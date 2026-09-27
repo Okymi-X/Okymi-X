@@ -1,4 +1,6 @@
-# Youssouf Ali Mahamat Nour
+# Okymi
+
+![Animated terminal banner introducing Okymi as a cybersecurity student focused on offensive security, open-source tooling, and security automation](./assets/profile-terminal.svg)
 
 Cybersecurity student focused on offensive security, security automation, and open-source engineering.
 
@@ -8,7 +10,6 @@ I build tools that make security workflows more reliable and repeatable. My curr
 
 - [htb-terminal](https://github.com/Okymi-X/htb-terminal) — Zero-dependency Python CLI for the Hack The Box Labs v4 API, including machine management, VPN switching, and raw API access.
 - [arsenal](https://github.com/Okymi-X/arsenal) — Go-based package and environment manager for offensive-security tooling, with version isolation and PATH shims.
-- [NetExec contribution](https://github.com/Pennyw0rth/NetExec/pull/1412) — Improved Kerberos configuration generation for multi-realm environments without overwriting existing krb5.conf state.
 
 ## Current focus
 
