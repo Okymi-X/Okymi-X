@@ -29,14 +29,6 @@ A Go package and environment manager for offensive-security tooling with isolate
 - [Hack The Box Pro Labs: Zephyr](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/details/certifications/) - August 2026
 - [Hack The Box Pro Labs: Dante](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/details/certifications/) - May 2026
 
-**Systems, APIs, and networking**
-
-- Red Hat System Administration I - February 2026
-- API Security Fundamentals, APIsec University - December 2025
-- CCNA: Enterprise Networking, Security, and Automation - August 2025
-
-[View all verified credentials on LinkedIn](https://www.linkedin.com/in/ali-mahamat-nour-youssouf/details/certifications/).
-
 ## Current focus
 
 Offensive-security tooling, Active Directory and Kerberos, security-focused APIs and CLIs, and clear technical documentation.
