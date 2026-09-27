@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Okymi cybersecurity profile</title>
+  <desc id="desc">Animated terminal banner cycling through Cybersecurity Student, Offensive Security, Open-Source Tooling, and Security Automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111c2d"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.14"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .line { opacity: 0; animation: cycle 12s ease-in-out infinite; }
+    .line-1 { animation-delay: 0s; }
+    .line-2 { animation-delay: 3s; }
+    .line-3 { animation-delay: 6s; }
+    .line-4 { animation-delay: 9s; }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes cycle {
+      0%, 20% { opacity: 1; transform: translateY(0); }
+      25%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; opacity: 0; }
+      .line-1 { opacity: 1; }
+      .cursor { animation: none; }
+    }
+  </style>
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="url(#grid)"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="25" r="6" fill="#27c93f"/>
+  <path d="M 18 45 H 882" stroke="#30363d" stroke-width="1"/>
+  <text x="42" y="85" class="mono" fill="#3fb950" font-size="19">$ profile --user</text>
+  <text x="42" y="128" class="mono" fill="#f0f6fc" font-size="34" font-weight="700">Okymi</text>
+  <text x="42" y="177" class="mono" fill="#58a6ff" font-size="23">&gt;</text>
+  <rect x="62" y="158" width="10" height="24" rx="1" fill="#3fb950" class="cursor"/>
+  <g class="mono" fill="#c9d1d9" font-size="23">
+    <text x="84" y="177" class="line line-1">Cybersecurity Student</text>
+    <text x="84" y="177" class="line line-2">Offensive Security</text>
+    <text x="84" y="177" class="line line-3">Open-Source Tooling</text>
+    <text x="84" y="177" class="line line-4">Security Automation</text>
+  </g>
+</svg>
