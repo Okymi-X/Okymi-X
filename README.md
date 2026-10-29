@@ -4,10 +4,6 @@
 
 I am a cybersecurity student focused on offensive security, Active Directory, and automation. I turn lab experience into useful tools and searchable technical references.
 
-<a href="https://notes.okymi.org/">
-  <img src="./assets/onyx-card.png" alt="Onyx, a searchable red-team knowledge base with 273 commands, 36 reference notes, and 3 posts" width="100%">
-</a>
-
 ## Selected work
 
 ### [Slimy](https://slimy.okymi.org)
@@ -20,13 +16,25 @@ An open-source desktop pet in Rust and Tauri: a soft gel body with real physics,
 
 ### [Onyx](https://notes.okymi.org/)
 
+<a href="https://notes.okymi.org/">
+  <img src="./assets/onyx-card.png" alt="Onyx, a searchable red-team knowledge base with 273 commands, 36 reference notes, and 3 posts" width="100%">
+</a>
+
 A searchable red-team knowledge base for verified commands, Active Directory attack chains, and hands-on write-ups.
 
 ### [htb-terminal](https://github.com/Okymi-X/htb-terminal)
 
+<a href="https://github.com/Okymi-X/htb-terminal">
+  <img src="./assets/htb-terminal-card.png" alt="HTB Terminal, a zero-dependency Python CLI for the Hack The Box Labs v4 API, with VPN switching" width="100%">
+</a>
+
 A zero-dependency Python CLI for the Hack The Box Labs v4 API, including machines, VPN switching, and raw API access.
 
 ### [arsenal](https://github.com/Okymi-X/arsenal)
+
+<a href="https://github.com/Okymi-X/arsenal">
+  <img src="./assets/arsenal-card.png" alt="Arsenal, a Go package and environment manager for offensive-security tooling with isolated environments, lockfiles and PATH shims" width="100%">
+</a>
 
 A Go package and environment manager for offensive-security tooling with isolated versions and PATH shims.
 
